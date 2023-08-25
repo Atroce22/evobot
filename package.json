@@ -13,7 +13,7 @@
   },
   "scripts": {
     "dev": "nodemon index.ts",
-    "start": "npx ts-node index.ts",
+    "start": "index.ts",
     "build": "tsc --build",
     "prod": "npm run build && node ./dist/index.js",
     "commit": "cz"
