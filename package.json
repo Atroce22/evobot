@@ -6,7 +6,7 @@
   "author": "Erit Islami <eritislami@gmail.com>",
   "private": true,
   "homepage": "https://github.com/eritislami/evobot",
-  "repository": "github:atroce22/evobot",
+  "repository": "github:Atroce22/evobot",
   "bugs": "https://github.com/eritislami/evobot/issues",
   "engines": {
     "node": ">=16.11.0"
