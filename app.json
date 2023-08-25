@@ -1,7 +1,7 @@
 {
   "name": "EvoBot",
   "description": "🤖 Discord Bot built with discord.js",
-  "repository": "https://github.com/eritislami/evobot",
+  "repository": "https://github.com/Atroce22/evobot",
   "logo": "https://i.imgur.com/JFxgbWH.png",
   "keywords": ["discord", "discordjs", "typescript", "music", "bot"]
 }
